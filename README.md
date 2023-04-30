@@ -1,2 +1,2 @@
 # SparkDF
-Spark dataframes.
+Spark dataframes with pandas API.
